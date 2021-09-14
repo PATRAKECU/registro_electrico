@@ -1,0 +1,4 @@
+pandas>=1.2.4
+lasio>=0.29
+streamlit>=0.87.0
+altair>=4.1.0
